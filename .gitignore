@@ -1,0 +1,11 @@
+.cache/
+.idea/
+.tox/
+*.iml
+.keys
+build/
+dist/
+__pycache__
+*.pyc
+*nodes.json
+*nodes.json.bak
